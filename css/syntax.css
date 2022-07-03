@@ -1,15 +1,11 @@
-a:hover{
+article p:first-child{
 
-
-color:chartreuse
+    font-weight: bold;
 
 }
 
-#main-content:hover{
-    background-color: aqua;
+article p:last-child{
+    color:cadetblue;
+
 }
 
-div:hover{
-
-    font-size: large;
-}
