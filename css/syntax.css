@@ -1,4 +1,21 @@
-#Lista-Artykułów h2 + p{
-
+span[class~=deck]{
 color:red
+
 }
+
+h2[id]{
+    color:darkorange
+
+}
+
+a[href$=pdf]{
+    
+    color:green
+
+}
+
+a[href^=http]{
+    color:pink
+
+}
+
