@@ -1,11 +1,13 @@
-article p:first-child{
+li:nth-child(2), li:nth-child(8){
 
-    font-weight: bold;
+font-weight: bold;
 
-}
-
-article p:last-child{
-    color:cadetblue;
 
 }
+
+li:nth-child(3n + 1){
+
+color: green
+}
+
 
