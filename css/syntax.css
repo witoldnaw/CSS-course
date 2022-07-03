@@ -1,5 +1,4 @@
-#main-content #sub-content p{
+#Lista-Artykułów h2 + p{
 
-    color:brown;
-
+color:red
 }
