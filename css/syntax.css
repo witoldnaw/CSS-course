@@ -1,24 +1,14 @@
-h2 {
-
-    font-size: 24px;
-
-}
-
-#content-header {
-
-    font-size: 18px;
-    color: red;
+body {
+    color:red;
 
 }
 
-span {
-    display: block;
-    color:crimson
+div {
+    color:greenyellow;
 
 }
 
-.deck {
-
-    color:darkorchid
+p{
+    color:bisque;
     
 }
