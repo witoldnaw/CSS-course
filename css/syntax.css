@@ -1,8 +1,5 @@
-article.featured-content{
-    background: pink
-}
+article h2, article p{
 
-div.featured-content{
-    background: green;
-}
+    font-family: Arial, Helvetica, sans-serif;
 
+}
