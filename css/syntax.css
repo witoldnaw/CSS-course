@@ -1,11 +1,24 @@
-a{
+#main-content div{
+    background-color: #ccc;
+    margin: 0 0 20px 0;
 
-    padding: 10px;
-    margin:10px;
-    background-color: aquamarine;
-    border: 1px solid #aaa;
-    color:darkblue;
-    text-decoration: none;
+
+}
+
+.static-width{
+    width: 300px;
+    height: 100px;
+
+}
+
+.percentage-width{
+    width: 70%;
+    height: 50px;
+
+}
+
+.inline-block{
+    width: 40%;
     display: inline-block;
     
 }
